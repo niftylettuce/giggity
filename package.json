@@ -1,0 +1,29 @@
+{
+    "name" : "giggity"
+  , "description" : "It's Quagmire, Quagmire ... on your CLI!"
+  , "version" : "0.0.1"
+  , "author" : "Nick Baugh <niftylettuce@gmail.com>"
+  , "contributors" : [
+      { "name" : "Nick Baugh", "email": "niftylettuce@gmail.com" }
+    ]
+  , "keywords" : [ "parody", "quagmire", "picture-tube" ]
+  , "homepage" : "https://github.com/niftylettuce/node-giggity"
+  , "repository" : {
+        "type" : "git"
+      , "url" : "https://github.com/niftylettuce/node-giggity.git"
+    }
+  , "engines" : {
+      "node" : ">= 0.6.0"
+    }
+  , "bin" : {
+      "giggity" : "bin/giggity.js"
+    }
+  , "dependencies": {
+        "picture-tube": "~0.0.4"
+      , "play" : "~0.5.0"
+      , "request" : "~2.11.1"
+      , "underscore" : "~1.3.3"
+      , "goo.gl" : "~0.0.2"
+      , "colors" : "~0.6.0-1"
+    }
+}
