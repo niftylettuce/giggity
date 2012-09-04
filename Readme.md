@@ -1,5 +1,5 @@
 
-# giggity <sup>0.0.1</sup>
+# giggity <sup>:running:</sup>
 
 Hes's Quagmire! Quagmire! You never really know what he's gonna do next (on your CLI)!
 
@@ -11,6 +11,8 @@ giggity
 <img src="https://raw.github.com/niftylettuce/giggity/master/quagmire.png" alt="" />
 
 This module is a fun demonstration of [picture-tube][1] and [play.js][2].
+
+Also try resizing your terminal window and running it again.
 
 ## Tips Plz!
 
