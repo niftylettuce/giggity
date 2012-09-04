@@ -14,9 +14,7 @@ This module is a fun demonstration of [picture-tube][1] and [play.js][2].
 
 Also try resizing your terminal window and running it again.
 
-## Tips Plz!
-
-<https://www.gittip.com/niftylettuce>
+[Gittip][3]
 
 ## Contributors
 
@@ -24,3 +22,4 @@ Also try resizing your terminal window and running it again.
 
 [1]: https://github.com/substack/picture-tube
 [2]: https://github.com/Marak/play.js
+[3]: https://www.gittip.com/niftylettuce
