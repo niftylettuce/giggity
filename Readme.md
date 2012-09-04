@@ -12,6 +12,10 @@ giggity
 
 This module is a fun demonstration of [picture-tube][1] and [play.js][2].
 
+## Tips Plz!
+
+<https://www.gittip.com/niftylettuce>
+
 ## Contributors
 
 * Nick Baugh <niftylettuce@gmail.com>
