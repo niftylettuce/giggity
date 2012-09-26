@@ -8,6 +8,10 @@ npm install -g giggity
 giggity
 ```
 
+The previous command `$ giggity` will output an audio clip and a random Quagmire image on the command line.
+
+Example output:
+
 <img src="https://raw.github.com/niftylettuce/giggity/master/quagmire.png" alt="" />
 
 This module is a fun demonstration of [picture-tube][1] and [play.js][2].
