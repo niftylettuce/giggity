@@ -1,7 +1,7 @@
 
 # giggity <sup>:running:</sup>
 
-Hes's Quagmire! Quagmire! You never really know what he's gonna do next (on your CLI)!
+He's Quagmire! Quagmire! You never really know what he's gonna do next (on your CLI)!
 
 ```bash
 npm install -g giggity
