@@ -1,5 +1,5 @@
 
-# giggity <sup>:running:</sup>
+# giggity <sup>[![Version Badge](http://vb.teelaun.ch/niftylettuce/giggity.svg)](https://npmjs.org/package/giggity)</sup>
 
 He's Quagmire! Quagmire! You never really know what he's gonna do next (on your CLI)!
 
