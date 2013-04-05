@@ -9,7 +9,7 @@ var path        = require('path')
   , request     = require('request')
   , googl       = require('goo.gl')
   , colors      = require('colors')
-  , play        = require('play')
+  , play        = require('play').Play()
 
 // auto-detect width of terminal
 var cols = (process.stdout.getWindowSize()[0] / 2)
