@@ -1,7 +1,7 @@
 {
     "name" : "giggity"
   , "description" : "It's Quagmire, Quagmire ... on your CLI!"
-  , "version" : "0.0.3"
+  , "version" : "0.0.4"
   , "author" : "Nick Baugh <niftylettuce@gmail.com>"
   , "contributors" : [
       { "name" : "Nick Baugh", "email": "niftylettuce@gmail.com" }
